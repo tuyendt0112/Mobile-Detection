@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="area_array">
+        <item>южный</item>
+        <item>восток</item>
+        <item>Север</item>
+    </string-array>
+</resources>

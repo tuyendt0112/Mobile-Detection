@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Detection Leaf Application</string>
+    <string name="login">Авторизоваться</string>
+    <string name="email">Электронная почта</string>
+    <string name="password">Пароль</string>
+    <string name="register">регистр</string>
+    <string name="click_to_login">Нажмите, чтобы войти</string>
+    <string name="click_to_reigster">Нажмите, чтобы зарегистрироваться</string>
+    <string name="logout" >Выйти</string>
+    <string name="darkmode" >Темный режим</string>
+</resources>

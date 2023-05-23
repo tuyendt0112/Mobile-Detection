@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "393883348560",
+    "firebase_url": "https://connectfirebase-ff1f9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "connectfirebase-ff1f9",
+    "storage_bucket": "connectfirebase-ff1f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393883348560:android:356a4866ce7ea6df54ab55",
+        "android_client_info": {
+          "package_name": "com.example.connecfirebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393883348560-5ca7sl13tgk9c8ohvqlehhgoieoa4a5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn3BoihAqukBQPUqjTwyWZOW1PRVwoQhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393883348560-5ca7sl13tgk9c8ohvqlehhgoieoa4a5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393883348560:android:401fb84d01a367e854ab55",
+        "android_client_info": {
+          "package_name": "com.example.connectfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393883348560-5ca7sl13tgk9c8ohvqlehhgoieoa4a5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn3BoihAqukBQPUqjTwyWZOW1PRVwoQhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393883348560-5ca7sl13tgk9c8ohvqlehhgoieoa4a5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393883348560:android:dd2e283a5de40fd254ab55",
+        "android_client_info": {
+          "package_name": "com.example.firebasevideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393883348560-5ca7sl13tgk9c8ohvqlehhgoieoa4a5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn3BoihAqukBQPUqjTwyWZOW1PRVwoQhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393883348560-5ca7sl13tgk9c8ohvqlehhgoieoa4a5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393883348560:android:4cc8eff992c142cd54ab55",
+        "android_client_info": {
+          "package_name": "com.example.playmusicfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393883348560-5ca7sl13tgk9c8ohvqlehhgoieoa4a5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn3BoihAqukBQPUqjTwyWZOW1PRVwoQhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393883348560-5ca7sl13tgk9c8ohvqlehhgoieoa4a5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393883348560:android:56b3de83643c06dd54ab55",
+        "android_client_info": {
+          "package_name": "com.example.uploadimagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393883348560-5ca7sl13tgk9c8ohvqlehhgoieoa4a5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn3BoihAqukBQPUqjTwyWZOW1PRVwoQhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393883348560-5ca7sl13tgk9c8ohvqlehhgoieoa4a5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393883348560:android:2e7c04df2980075654ab55",
+        "android_client_info": {
+          "package_name": "com.example.uploadimgfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393883348560-5ca7sl13tgk9c8ohvqlehhgoieoa4a5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn3BoihAqukBQPUqjTwyWZOW1PRVwoQhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393883348560-5ca7sl13tgk9c8ohvqlehhgoieoa4a5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393883348560:android:096b00c2324e872954ab55",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.customspinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393883348560-5ca7sl13tgk9c8ohvqlehhgoieoa4a5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn3BoihAqukBQPUqjTwyWZOW1PRVwoQhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393883348560-5ca7sl13tgk9c8ohvqlehhgoieoa4a5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

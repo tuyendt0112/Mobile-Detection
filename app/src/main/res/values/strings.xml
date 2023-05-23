@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Detection Leaf Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_reigster">Click to reigster</string>
+    <string name="logout" >Logout</string>
+    <string name="darkmode" >Dark Mode</string>
+</resources>

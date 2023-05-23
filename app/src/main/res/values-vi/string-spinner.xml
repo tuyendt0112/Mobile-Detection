@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="area_array">
+        <item>Nam</item>
+        <item>Đông</item>
+        <item>Bắc</item>
+    </string-array>
+</resources>
